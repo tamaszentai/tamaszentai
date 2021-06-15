@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tamás</h1>
 <h3 align="center">A former chef who became a passionate Software Developer</h3>
 
-<p> I'm mainly focusing on the Web, using JavaScript and its frameworks but my long term goal is to become a mobile developer.  </p>
+<p> I'm mainly focusing on the Web Development, using JavaScript and its frameworks but my long term goal is to become a mobile developer.  </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
