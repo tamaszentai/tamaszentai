@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/tamaszentai/tamaszentai/blob/main/cover.png?raw=true">
+</p>
+
 <h1 align="center">Hi 👋, I'm Tamás</h1>
 <h3 align="center">A former chef who became a passionate Software Developer</h3>
 
