@@ -1,5 +1,4 @@
 <p align="center">
-<img src="https://github.com/tamaszentai/tamaszentai/blob/main/cover.png?raw=true">
 </p>
 
 <h1 align="center">Hi 👋, I'm Tamás</h1>
