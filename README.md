@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Tamás</h1>
 <h3 align="center">A former chef who became a passionate Software Developer</h3>
 
-<p>I specialize in Fullstack Web Development, leveraging TypeScript, Vue.js, Nuxt.js, Node.js and PHP to craft immersive digital experiences."</p>
+<p>I specialize in Fullstack Web Development, leveraging TypeScript, Vue.js, Nuxt.js, Node.js and PHP to craft immersive digital experiences.</p>
 
 <h2>Check my portfolio site: <a href="https://tamaszentai.dev" target="_blank">tamaszentai.dev</a></h2>
 
