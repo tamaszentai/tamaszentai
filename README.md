@@ -6,8 +6,6 @@
 
 <p>I specialize in Fullstack Web Development, leveraging TypeScript, Vue.js, Nuxt.js, Node.js and PHP to craft immersive digital experiences.</p>
 
-<h2>Check my portfolio site: <a href="https://tamaszentai.dev" target="_blank">tamaszentai.dev</a></h2>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
