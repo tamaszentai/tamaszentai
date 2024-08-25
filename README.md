@@ -33,7 +33,7 @@
     </tr>
  <tr>
         <td><a href="#">BookmarkBuster Chrome Extension</a></td>
-        <td><img src="https://via.placeholder.com/150" alt="image of bookmark buster extension"></td>
+        <td><img src="https://github.com/tamaszentai/tamaszentai/blob/main/Project_Images/bookmarkbuster.png?raw=true" width="500" alt="image of bookmark buster extension"></td>
     </tr>
     <tr>
         <td><a href="https://dino-platformer.web.app/">Dino Platformer</a></td>
