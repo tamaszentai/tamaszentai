@@ -37,27 +37,27 @@
     </tr>
     <tr>
         <td><a href="https://dino-platformer.web.app/">Dino Platformer</a></td>
-        <td><img src="https://via.placeholder.com/150" alt="image of dino platformer game"></td>
+        <td><img src="https://github.com/tamaszentai/tamaszentai/blob/main/Project_Images/dino_platformer.png?raw=true" width="500" alt="image of dino platformer game"></td>
     </tr>
    <tr>
         <td><a href="https://weight-loss-tracking.web.app/">Weight loss tracking app</a></td>
-        <td><img src="https://via.placeholder.com/150" alt="image of weight loss tracking app"></td>
+        <td><img src="https://github.com/tamaszentai/tamaszentai/blob/main/Project_Images/weightlosstracker.png?raw=true" width="500" alt="image of weight loss tracking app"></td>
     </tr>
 <tr>
         <td><a href="https://vuequarium.web.app/">VUEquarium</a></td>
-        <td><img src="https://via.placeholder.com/150" alt="image of vuequarium"></td>
+        <td><img src="https://github.com/tamaszentai/tamaszentai/blob/main/Project_Images/vuequarium.png?raw=true" width="500" alt="image of vuequarium"></td>
     </tr>
 <tr>
         <td><a href="https://simplecset.web.app/">Simple chat</a></td>
-        <td><img src="https://via.placeholder.com/150" alt="image of simple chat"></td>
+        <td><img src="https://github.com/tamaszentai/tamaszentai/blob/main/Project_Images/simplechat.png?raw=true" width="500" alt="image of simple chat"></td>
     </tr>
 <tr>
         <td><a href="https://mind-blowing-weatherapp.web.app/">Mind-Blowing Instant Weather</a></td>
-        <td><img src="https://via.placeholder.com/150" alt="image of mind blowing instant weather app"></td>
+        <td><img src="https://github.com/tamaszentai/tamaszentai/blob/main/Project_Images/mindblowinginstantweather.png?raw=true" width="500" alt="image of mind blowing instant weather app"></td>
     </tr>
 <tr>
         <td><a href="https://memorygame-89.web.app/">Pokémon Memory Game</a></td>
-        <td><img src="https://via.placeholder.com/150" alt="image of pokémon memory game"></td>
+        <td><img src="https://github.com/tamaszentai/tamaszentai/blob/main/Project_Images/pokemonmemorygame.png?raw=true" width="500" alt="image of pokémon memory game"></td>
     </tr>
 
 </table>
