@@ -29,7 +29,7 @@ clients. Passionate about leveraging advanced technical skills to improve health
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="margin: 0 10px;"/> 
   </a>
   <a href="https://firebase.google.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" style="margin: 0 10px;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/firebase/firebase-original-wordmark.svg" alt="firebase" width="40" height="40" style="margin: 0 10px;"/> 
   </a>
   <a href="https://php.net" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/php/php-original.svg" alt="php" width="40" height="40" style="margin: 0 10px;"/> 
@@ -43,8 +43,8 @@ clients. Passionate about leveraging advanced technical skills to improve health
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin: 0 10px;"/> 
   </a>
-  <a href="https://jestjs.io" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" style="margin: 0 10px;"/> 
+  <a href="https://vitest.dev/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vitest/vitest-original.svg" alt="jest" width="40" height="40" style="margin: 0 10px;"/> 
   </a>
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="margin: 0 10px;"/> 
