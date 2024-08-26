@@ -1,9 +1,12 @@
 <p align="center"></p>
 
 <h1 align="center" style="font-family: Arial, sans-serif; color: #2c3e50;">Hi 👋, I'm Tamás</h1>
-<h3 align="center" style="font-family: Arial, sans-serif; color: #34495e;">A former chef who became a passionate Software Developer</h3>
+<h3 align="center" style="font-family: Arial, sans-serif; color: #34495e;">A former chef who became a passionate Software Engineer</h3>
 
-<p align="center" style="font-family: Arial, sans-serif; color: #7f8c8d;">I specialize in Fullstack Web Development, leveraging JavaScript, TypeScript, Vue.js, Nuxt.js, Node.js, and PHP to craft immersive digital experiences.</p>
+<p align="center" style="font-family: Arial, sans-serif; color: #7f8c8d;">I'm an Experienced Software Engineer developing innovative healthcare applications and enhancing user interfaces. Proficient in
+technologies such as Firebase, Vue.js, and TypeScript with a strong focus on creativity and finding optimal solutions for
+clients. Passionate about leveraging advanced technical skills to improve health and quality of life.
+</p>
 
 <h3 style="font-family: Arial, sans-serif; color: #2c3e50;">Languages and Tools:</h3>
 <p align="center">
