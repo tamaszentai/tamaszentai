@@ -69,7 +69,7 @@ clients. Passionate about leveraging advanced technical skills to improve health
     </tr>
     <tr>
         <td style="padding: 10px; vertical-align: top; font-family: Arial, sans-serif;">
-            <a href="#">BookmarkBuster Chrome Extension</a>
+            <a href="https://github.com/tamaszentai/BookmarkBuster" target="_blank">BookmarkBuster Chrome Extension</a>
         </td>
         <td style="padding: 10px; text-align: center;">
             <img src="https://github.com/tamaszentai/tamaszentai/blob/main/Project_Images/bookmarkbuster.png?raw=true" width="500" alt="image of bookmark buster extension" style="border-radius: 8px;"/>
@@ -77,7 +77,7 @@ clients. Passionate about leveraging advanced technical skills to improve health
     </tr>
     <tr>
         <td style="padding: 10px; vertical-align: top; font-family: Arial, sans-serif;">
-            <a href="https://dino-platformer.web.app/">Dino Platformer</a>
+            <a href="https://dino-platformer.web.app/" target="_blank">Dino Platformer</a>
         </td>
         <td style="padding: 10px; text-align: center;">
             <img src="https://github.com/tamaszentai/tamaszentai/blob/main/Project_Images/dino_platformer.png?raw=true" width="500" alt="image of dino platformer game" style="border-radius: 8px;"/>
@@ -85,7 +85,7 @@ clients. Passionate about leveraging advanced technical skills to improve health
     </tr>
     <tr>
         <td style="padding: 10px; vertical-align: top; font-family: Arial, sans-serif;">
-            <a href="https://weight-loss-tracking.web.app/">Weight loss tracking app</a>
+            <a href="https://weight-loss-tracking.web.app/" target="_blank">Weight loss tracking app</a>
         </td>
         <td style="padding: 10px; text-align: center;">
             <img src="https://github.com/tamaszentai/tamaszentai/blob/main/Project_Images/weightlosstracker.png?raw=true" width="500" alt="image of weight loss tracking app" style="border-radius: 8px;"/>
@@ -93,7 +93,7 @@ clients. Passionate about leveraging advanced technical skills to improve health
     </tr>
     <tr>
         <td style="padding: 10px; vertical-align: top; font-family: Arial, sans-serif;">
-            <a href="https://vuequarium.web.app/">VUEquarium</a>
+            <a href="https://vuequarium.web.app/" target="_blank">VUEquarium</a>
         </td>
         <td style="padding: 10px; text-align: center;">
             <img src="https://github.com/tamaszentai/tamaszentai/blob/main/Project_Images/vuequarium.png?raw=true" width="500" alt="image of vuequarium" style="border-radius: 8px;"/>
@@ -101,7 +101,7 @@ clients. Passionate about leveraging advanced technical skills to improve health
     </tr>
     <tr>
         <td style="padding: 10px; vertical-align: top; font-family: Arial, sans-serif;">
-            <a href="https://simplecset.web.app/">Simple chat</a>
+            <a href="https://simplecset.web.app/" target="_blank">Simple chat</a>
         </td>
         <td style="padding: 10px; text-align: center;">
             <img src="https://github.com/tamaszentai/tamaszentai/blob/main/Project_Images/simplechat.png?raw=true" width="500" alt="image of simple chat" style="border-radius: 8px;"/>
@@ -109,7 +109,7 @@ clients. Passionate about leveraging advanced technical skills to improve health
     </tr>
     <tr>
         <td style="padding: 10px; vertical-align: top; font-family: Arial, sans-serif;">
-            <a href="https://mind-blowing-weatherapp.web.app/">Mind-Blowing Instant Weather</a>
+            <a href="https://mind-blowing-weatherapp.web.app/" target="_blank">Mind-Blowing Instant Weather</a>
         </td>
         <td style="padding: 10px; text-align: center;">
             <img src="https://github.com/tamaszentai/tamaszentai/blob/main/Project_Images/mindblowinginstantweather.png?raw=true" width="500" alt="image of mind blowing instant weather app" style="border-radius: 8px;"/>
@@ -117,7 +117,7 @@ clients. Passionate about leveraging advanced technical skills to improve health
     </tr>
     <tr>
         <td style="padding: 10px; vertical-align: top; font-family: Arial, sans-serif;">
-            <a href="https://memorygame-89.web.app/">Pokémon Memory Game</a>
+            <a href="https://memorygame-89.web.app/" target="_blank">Pokémon Memory Game</a>
         </td>
         <td style="padding: 10px; text-align: center;">
             <img src="https://github.com/tamaszentai/tamaszentai/blob/main/Project_Images/pokemonmemorygame.png?raw=true" width="500" alt="image of pokémon memory game" style="border-radius: 8px;"/>
