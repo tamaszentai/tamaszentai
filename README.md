@@ -1,7 +1,6 @@
 <p align="center"></p>
 
 <h1 align="center" style="font-family: Arial, sans-serif; color: #2c3e50;">Hi 👋, I'm Tamás</h1>
-<h3 align="center" style="font-family: Arial, sans-serif; color: #34495e;">A former chef who became a passionate Software Engineer</h3>
 
 <p align="center" style="font-family: Arial, sans-serif; color: #7f8c8d;">I'm an Experienced Software Engineer developing innovative healthcare applications and enhancing user interfaces. Proficient in
 technologies such as Firebase, Vue.js, and TypeScript with a strong focus on creativity and finding optimal solutions for
