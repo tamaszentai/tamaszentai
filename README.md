@@ -180,5 +180,5 @@ clients. Passionate about leveraging advanced technical skills to improve health
 
 <h3 align="left" style="font-family: Arial, sans-serif; color: #2c3e50;">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tamaszentai&show_icons=true&locale=en&layout=compact" alt="tamaszentai" style="border-radius: 8px;"/>
+  <img src="https://github-readme-stats-erv4-git-master-tamaszentais-projects.vercel.app/api/top-langs?username=tamaszentai&show_icons=true&locale=en&layout=compact" alt="tamaszentai" style="border-radius: 8px;"/>
 </p>
